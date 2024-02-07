@@ -17,6 +17,11 @@ requirements.txt                # Required libraries for the project to run
 
 utils.py                        # Utility functions used in the practice lab
 
+## Intro
+
+***Github Link*** : [https://github.com/Qmumu/ml_lab1](https://github.com/Qmumu/ml_lab1)
+  
+***Medium Link*** : [https://medium.com/@751153214/practice-lab1-linear-regression-d166c5db2685](https://medium.com/@751153214/practice-lab1-linear-regression-d166c5db2685)
 
 ## Project Overview
 
